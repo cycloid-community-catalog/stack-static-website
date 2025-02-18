@@ -1,4 +1,5 @@
 ---
+version: 2
 # Configuration of the Cycloid stack
 name: 'Static website'
 canonical: 'static-website'
